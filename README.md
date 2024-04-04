@@ -1,7 +1,7 @@
 # Practical Assignment 17
 
 ### Problem Statement 
-The problem originates with understanding bank customer needs and how these needs correlate with successful marketing campaigns.
+The problem originates with understanding bank customer needs and how these needs correlate with successful marketing campaigns. Using the data derived from 17 different marketing campaings for Portuguese banking institutions, we will predict if the bank's clients will subscribe to a term deposit.
 
 ### Data Cleaning
 - Updated the Yes and No values to integers values. 
